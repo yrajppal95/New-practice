@@ -1,4 +1,4 @@
 # New-practice
-This is another chance of working
+This is another chance of working.
 <br>
-author - Yash Rajpal
+Author - Yash Rajpal
